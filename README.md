@@ -11,7 +11,6 @@
 
 
 - **Assignment_4.ipynb**: Contains the full workflow — data loading, baseline model, GMM sampling, CBU undersampling, model evaluation, and final conclusions.  
-- **data/**: If working locally, place the `creditcard.csv` dataset here (from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)).  
 
 ---
 
